@@ -1,0 +1,9 @@
+[1] " hypothesis test"
+[1] "2021-10-21 13:56:21 PDT"
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  data$RetentionTime and data$rep.rt
+V = 199360182, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
